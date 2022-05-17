@@ -1,0 +1,17 @@
+Index: src/olg/stud/LibraryReaders.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/olg/stud/LibraryReaders.java b/src/olg/stud/LibraryReaders.java
+--- a/src/olg/stud/LibraryReaders.java	(revision bf60ee8832856477479960d088aecffa6a5849bc)
++++ b/src/olg/stud/LibraryReaders.java	(revision 341cabf70548e8cdf418c1c61e6760c205cc8e0b)
+@@ -8,7 +8,7 @@
+     public int phoneNumber;
+ 
+     public void addReader(String str ){
+-
++1
+ 
+     }
+ 
