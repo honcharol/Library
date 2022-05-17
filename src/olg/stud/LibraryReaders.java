@@ -8,7 +8,7 @@ public class LibraryReaders{
     public int phoneNumber;
 
     public void addReader(String str ){
-1
+
 
     }
 
