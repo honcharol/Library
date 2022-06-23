@@ -17,7 +17,7 @@ public class ReaderDemo {
 
         reader1.takeBook(5);
         reader2.takeBook("Космобиолухи, Громыко", "Java программирование, Шилдт");
-        reader3.takeBook(book1, book2,book3);
+        reader3.takeBook(book1, book2, book3);
 
         reader1.returnBook(1);
         reader2.returnBook("Java программирование, Шилдт");
@@ -35,7 +35,7 @@ public class ReaderDemo {
     private static void printReaders(Reader[] readers) {
         System.out.println("Список читателей:");
         for (Reader reader : readers) {
-            System.out.println( reader.getInfo());
+            System.out.println(reader.getInfo());
         }
         System.out.println();
     }

@@ -59,7 +59,7 @@ public class Reader {
     }
 
     public void takeBook(int number) {
-        System.out.println(this.fio + " взял " + number + " книги.");
+        System.out.println(this.fio + " ВЗЯЛ " + number + " книги.");
     }
 
     public void takeBook(String... books) {
@@ -79,7 +79,7 @@ public class Reader {
     }
 
     public void returnBook(int number) {
-        System.out.println(this.fio + " вернул " + number + " книги.");
+        System.out.println(this.fio + " Вернул " + number + " книги.");
     }
 
     public void returnBook(String... books) {
